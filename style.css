@@ -1,0 +1,14 @@
+.sign{
+    border: 1px solid #333;
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #d3e088;
+}
+
+.sign figcaption{
+    margin: 0 auto 5px;
+}
+
+body{
+   background-color: rgb(136, 189, 95); 
+}
